@@ -4,7 +4,7 @@
 
 package net
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 type InterfaceStatsList struct {
 	Entries  map[string]InterfaceStatsEntries `json:"entries,omitempty"`

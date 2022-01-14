@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // MonitorTCPList holds a list of MonitorTCP configuration.
 type MonitorTCPList struct {

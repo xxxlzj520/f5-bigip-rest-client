@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // FPGAFirmwareConfigConfigList holds a list of FPGAFirmwareConfig configuration.
 type FPGAFirmwareConfigConfigList struct {

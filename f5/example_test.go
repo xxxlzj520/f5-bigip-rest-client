@@ -3,8 +3,8 @@ package f5_test
 //import (
 //	"log"
 //
-//	"f5-bigip-rest-client/f5"
-//	"github.com/xxxlzj520/f5-bigip-rest-client/f5/ltm"
+//	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
+//	"github.com/xxxlzj520/github.com/xxxlzj520/f5-bigip-rest-client/f5/ltm"
 //)
 //
 //func ExampleClient_Begin() {

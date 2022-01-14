@@ -4,7 +4,7 @@
 
 package security
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // EngineUpdateConfigList holds a list of EngineUpdate configuration.
 type EngineUpdateConfigList struct {

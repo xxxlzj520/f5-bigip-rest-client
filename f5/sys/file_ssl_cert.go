@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // FileSSLCertConfigList holds a list of FileSSLCert configuration.

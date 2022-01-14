@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // DaemonLogSettingsMCPDConfigList holds a list of DaemonLogSettingsMCPD configuration.
 type DaemonLogSettingsMCPDConfigList struct {

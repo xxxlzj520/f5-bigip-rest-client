@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // MonitorSOAPList holds a list of MonitorSOAP configuration.
 type MonitorSOAPList struct {

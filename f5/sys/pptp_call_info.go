@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // PPTPCallInfoConfigList holds a list of PPTPCallInfo configuration.
 type PPTPCallInfoConfigList struct {

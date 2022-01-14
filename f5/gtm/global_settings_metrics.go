@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // GlobalSettingsMetrics holds the configuration of a single GlobalSettingsMetrics.
 type GlobalSettingsMetrics struct {

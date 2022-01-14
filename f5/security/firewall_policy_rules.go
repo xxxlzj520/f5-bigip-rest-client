@@ -4,7 +4,7 @@
 
 package security
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // FirewallPolicyRulesConfigList holds a list of FirewallPolicyRules configuration.
 type FirewallPolicyRulesConfigList struct {

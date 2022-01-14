@@ -5,8 +5,8 @@
 package apm_test
 
 import (
-	"f5-bigip-rest-client/f5"
-	"f5-bigip-rest-client/f5/apm"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5/apm"
 	"log"
 )
 

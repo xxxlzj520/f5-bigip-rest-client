@@ -4,7 +4,7 @@
 
 package apm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // AccessProfileConfigList holds a list of AccessProfile configuration.
 type AccessProfileConfigList struct {

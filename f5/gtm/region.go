@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // RegionList holds a list of Region configuration.
 type RegionList struct {

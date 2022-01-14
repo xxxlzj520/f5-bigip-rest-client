@@ -4,7 +4,7 @@
 
 package security
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // IPIntelligenseBlacklistCategoryConfigList holds a list of IPIntelligenseBlacklistCategory configuration.
 type IPIntelligenseBlacklistCategoryConfigList struct {

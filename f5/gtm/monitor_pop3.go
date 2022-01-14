@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // MonitorPOP3List holds a list of MonitorPOP3 configuration.
 type MonitorPOP3List struct {

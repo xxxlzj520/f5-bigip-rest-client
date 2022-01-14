@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // FileSSLCSRConfigList holds a list of FileSSLCSR configuration.
 type FileSSLCSRConfigList struct {

@@ -4,7 +4,7 @@
 
 package ltm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 type MonitorTCPEchoConfigList struct {
 	Items    []MonitorTCPEchoConfig `json:"items,omitempty"`

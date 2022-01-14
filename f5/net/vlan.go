@@ -4,7 +4,7 @@
 
 package net
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // A VlanList holds a list of Vlan.
 type VlanList struct {

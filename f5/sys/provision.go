@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // ProvisionConfigList holds a list of Provision configuration.
 type ProvisionConfigList struct {

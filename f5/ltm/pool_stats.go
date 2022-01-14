@@ -4,7 +4,7 @@
 
 package ltm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 /*
    Gets only the stats for the specified pool itself, not include members of the pool.

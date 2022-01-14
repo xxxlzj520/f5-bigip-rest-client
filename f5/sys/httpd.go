@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // HTTPDConfigList holds a list of HTTPD configuration.
 type HTTPDConfigList struct {

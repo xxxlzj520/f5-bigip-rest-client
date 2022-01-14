@@ -4,7 +4,7 @@
 
 package vcmp
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // VirtualDiskTemplateConfigList holds a list of VirtualDiskTemplate configuration.
 type VirtualDiskTemplateConfigList struct {

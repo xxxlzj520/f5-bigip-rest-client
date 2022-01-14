@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // SMTPServerConfigList holds a list of SMTPServer configuration.
 type SMTPServerConfigList struct {

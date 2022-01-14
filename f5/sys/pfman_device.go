@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // PFManDeviceConfigList holds a list of PFManDevice configuration.
 type PFManDeviceConfigList struct {

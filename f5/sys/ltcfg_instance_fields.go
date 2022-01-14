@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // LTCFGInstanceFieldsConfigList holds a list of LTCFGInstanceFields configuration.
 type LTCFGInstanceFieldsConfigList struct {

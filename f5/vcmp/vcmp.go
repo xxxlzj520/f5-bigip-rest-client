@@ -4,7 +4,7 @@
 
 package vcmp
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // BasePath is the base path of the VCMP API.
 const BasePath = "mgmt/tm/vcmp"

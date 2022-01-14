@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // RestrictedModuleConfigList holds a list of RestrictedModule configuration.
 type RestrictedModuleConfigList struct {

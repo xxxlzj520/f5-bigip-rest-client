@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // MonitorRadiusConfigList holds a list of MonitorRadius configuration.
 type MonitorRadiusConfigList struct {

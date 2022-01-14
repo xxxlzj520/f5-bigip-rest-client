@@ -7,7 +7,7 @@ package vcmp
 import (
 	"fmt"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // GuestList holds a list of Guests.

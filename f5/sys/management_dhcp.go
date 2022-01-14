@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // ManagementDHCPConfigList holds a list of ManagementDHCP configuration.
 type ManagementDHCPConfigList struct {

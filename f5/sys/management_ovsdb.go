@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // ManagementOVSDBConfigList holds a list of ManagementOVSDB configuration.
 type ManagementOVSDBConfigList struct {

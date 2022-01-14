@@ -7,7 +7,7 @@ package sys
 import (
 	"fmt"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // SoftwareConfigList holds a list of Software configuration.

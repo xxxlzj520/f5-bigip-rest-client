@@ -7,7 +7,7 @@ package util
 import (
 	"encoding/json"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 type BashCommand struct {

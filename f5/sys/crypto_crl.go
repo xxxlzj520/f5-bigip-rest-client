@@ -8,7 +8,7 @@ import (
 	"errors"
 	"io"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // CryptoCRLConfigList holds a list of CryptoCRL configuration.

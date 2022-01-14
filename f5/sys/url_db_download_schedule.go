@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // URLDBDownloadScheduleConfigList holds a list of URLDBDownloadSchedule configuration.
 type URLDBDownloadScheduleConfigList struct {

@@ -4,7 +4,7 @@
 
 package vcmp
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // TrafficProfileConfigList holds a list of TrafficProfile configuration.
 type TrafficProfileConfigList struct {

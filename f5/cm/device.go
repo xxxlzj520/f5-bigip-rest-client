@@ -4,7 +4,7 @@
 
 package cm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // A DeviceList holds a list of Device.
 type DeviceList struct {

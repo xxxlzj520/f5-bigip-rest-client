@@ -4,7 +4,7 @@
 
 package net
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // A InterfaceList holds a list of Interface.
 type InterfaceList struct {

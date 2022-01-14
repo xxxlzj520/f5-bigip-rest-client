@@ -5,8 +5,8 @@
 package gtm_test
 
 import (
-	"f5-bigip-rest-client/f5"
-	"f5-bigip-rest-client/f5/gtm"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5/gtm"
 	"log"
 )
 

@@ -4,7 +4,7 @@
 
 package security
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // FirewallGlobalRulesActiveConfigList holds a list of FirewallGlobalRulesActive configuration.
 type FirewallGlobalRulesActiveConfigList struct {

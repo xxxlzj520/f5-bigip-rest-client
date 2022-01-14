@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // A PoolMembersList holds a list of pool members uration.

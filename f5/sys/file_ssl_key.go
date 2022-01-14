@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // FileSSLKeyConfigList holds a list of FileSSLKey configuration.

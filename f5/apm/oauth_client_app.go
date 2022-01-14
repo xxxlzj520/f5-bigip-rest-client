@@ -7,7 +7,7 @@ package apm
 import (
 	"encoding/json"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // OAuthClientAppConfigList holds a list of OAuthClientApp configuration.

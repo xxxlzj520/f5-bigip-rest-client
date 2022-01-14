@@ -1,9 +1,9 @@
 package main
 
 import (
-	"f5-bigip-rest-client/f5"
-	"f5-bigip-rest-client/f5/ltm"
 	"fmt"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5/ltm"
 	"log"
 )
 

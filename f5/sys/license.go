@@ -7,7 +7,7 @@ package sys
 import (
 	"time"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // License holds the configuration of a single License.

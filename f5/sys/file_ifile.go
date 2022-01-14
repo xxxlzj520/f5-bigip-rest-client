@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"f5-bigip-rest-client/f5"
+	"github.com/xxxlzj520/f5-bigip-rest-client/f5"
 )
 
 // FileIFileConfigList holds a list of FileIFile configuration.

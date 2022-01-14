@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // IPFixElementConfigList holds a list of IPFixElement configuration.
 type IPFixElementConfigList struct {

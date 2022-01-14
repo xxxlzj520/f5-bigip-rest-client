@@ -4,7 +4,7 @@
 
 package gtm
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // PoolSRVEndpoint represents the REST resource for managing PoolSRV.
 const PoolSRVEndpoint = "/pool/srv"

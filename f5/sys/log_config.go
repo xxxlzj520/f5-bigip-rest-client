@@ -4,7 +4,7 @@
 
 package sys
 
-import "f5-bigip-rest-client/f5"
+import "github.com/xxxlzj520/f5-bigip-rest-client/f5"
 
 // LogConfigConfigList holds a list of LogConfig configuration.
 type LogConfigConfigList struct {
