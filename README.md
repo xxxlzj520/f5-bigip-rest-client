@@ -2,7 +2,7 @@
 
 f5-bigip-rest-client implements a REST client to query the F5 Big IP API.
 
-从github.com/e-XpertSolutions/f5-rest-client获取的项目，纯属私人使用改造，千万不要瞎用
+从github.com/e-XpertSolutions/f5-rest-client 获取的项目进行改造，纯属私人使用改造，千万不要瞎用
 
 ## Installation
 
