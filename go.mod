@@ -1,4 +1,4 @@
-module f5-bigip-rest-client
+module github.com/xxxlzj520/f5-bigip-rest-client
 
 go 1.16
 
