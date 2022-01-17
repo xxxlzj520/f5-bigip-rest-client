@@ -66,7 +66,7 @@ type PoolStats struct {
 			Value int `json:"value"`
 		} `json:"connqAll.serviced,omitempty"`
 		CurSessions struct {
-			Value int `json:"value"`
+			Value uint64 `json:"value"`
 		} `json:"curSessions,omitempty"`
 		MemberCnt struct {
 			Value int `json:"value"`

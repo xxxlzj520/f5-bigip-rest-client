@@ -22,7 +22,7 @@ type NodeStats struct {
 			Description string `json:"description,omitempty"`
 		} `json:"addr,omitempty"`
 		CurSessions struct {
-			Value int `json:"value"`
+			Value uint64 `json:"value"`
 		} `json:"curSessions,omitempty"`
 		MonitorRule struct {
 			Description string `json:"description,omitempty"`
